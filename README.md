@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>JPMorgan Bank Loan Report</title>
-</head>
 
 <body>
 
