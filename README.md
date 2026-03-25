@@ -10,6 +10,12 @@
 This project focuses on analyzing bank loan data to monitor <b>lending performance</b>, evaluate <b>portfolio health</b>, 
 and generate <b>data-driven insights</b>. The dashboard enables financial institutions to make informed decisions 
 by providing a complete view of loan distribution, repayment behavior, and customer risk segmentation.
+
+Dataset:
+• 38K+ loan records
+• 24 columns
+• Loan status, DTI, interest rate, purpose  
+
 </p>
 
 <hr>
